@@ -23,9 +23,9 @@ I apologize for that.
 
 ## License
 
-[AE2 Backport](AE2%20Backport) 폴더는 [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed) 라이선스입니다.  
-[AE2WTLib Backport](AE2WTLib%20Backport) 폴더는 [MIT](https://opensource.org/license/mit) 라이선스입니다.  
-[Extended AE2 Backport](Extended%20AE2%20Backport) 폴더는 [LGPL 3.0](https://www.gnu.org/licenses/lgpl-3.0.html) 라이선스입니다.  
+The [AE2 Backport](AE2%20Backport) folder is licensed under [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed)  
+The [AE2WTLib Backport](AE2WTLib%20Backport) folder is licensed under [MIT](https://opensource.org/license/mit)  
+The [Extended AE2 Backport](Extended%20AE2%20Backport) folder is licensed under [LGPL 3.0](https://www.gnu.org/licenses/lgpl-3.0.html  
 
 ## Image
 
