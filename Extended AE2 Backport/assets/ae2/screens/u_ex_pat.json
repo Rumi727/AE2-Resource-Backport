@@ -1,0 +1,23 @@
+{
+  "$schema": "schema.json",
+  "includes": [
+    "ex_pattern_access_terminal.json",
+    "wtlib/universal_terminal_no_viewcells.json",
+    "common/toolbox.json"
+  ],
+  "slots": {
+    "TOOLBOX": {
+      "bottom": 82,
+      "right": 20,
+      "grid": "BREAK_AFTER_3COLS"
+    }
+  },
+  "widgets": {
+    "toolbox": {
+      "right": 21,
+      "bottom": 88,
+      "width": 59,
+      "height": 66
+    }
+  }
+}
