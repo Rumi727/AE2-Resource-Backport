@@ -25,7 +25,7 @@ I apologize for that.
 
 The [AE2 Backport](AE2%20Backport) folder is licensed under [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed)  
 The [AE2WTLib Backport](AE2WTLib%20Backport) folder is licensed under [MIT](https://opensource.org/license/mit)  
-The [Extended AE2 Backport](Extended%20AE2%20Backport) folder is licensed under [LGPL 3.0](https://www.gnu.org/licenses/lgpl-3.0.html  
+The [Extended AE2 Backport](Extended%20AE2%20Backport) folder is licensed under [LGPL 3.0](https://www.gnu.org/licenses/lgpl-3.0.html)  
 
 ## Image
 
