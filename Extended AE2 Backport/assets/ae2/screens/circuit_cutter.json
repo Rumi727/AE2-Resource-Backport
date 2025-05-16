@@ -7,6 +7,10 @@
   },
   "slots": {
     "MACHINE_INPUT": {
+      "left": 27,
+      "top": 37
+    },
+    "STORAGE": {
       "left": 46,
       "top": 37
     },
