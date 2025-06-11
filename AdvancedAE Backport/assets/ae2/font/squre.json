@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+			"type": "bitmap",
+			"file": "ae2:font/squre.png",
+			"ascent": 18,
+			"height": 18,
+			"chars": [
+				" "
+			]
+		}
+    ]
+}

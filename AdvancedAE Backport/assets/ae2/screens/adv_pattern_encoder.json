@@ -1,0 +1,57 @@
+{
+	"$schema": "schema.json",
+	"includes": ["common/common.json", "common/player_inventory.json"],
+	"text": {
+		"squre": {
+			"text": {
+				"text": " ",
+				"color": "#CDCED7",
+				"font": "ae2:squre"
+			},
+			"position": {
+				"left": 7,
+				"top": 132
+			}
+		},
+		"dialog_title": {
+			"text": {
+				"translate": "gui.advanced_ae.AdvPatternEncoder"
+			},
+			"position": {
+				"left": 10,
+				"top": 5
+			}
+		},
+		"zplayer_inventory_title": {
+			"text": {
+				"translate": "container.inventory"
+			},
+			"position": {
+				"left": 8,
+				"bottom": 95
+			}
+		}
+	},
+	"background": {
+		"texture": "guis/adv_pattern_encoder.png",
+		"srcRect": [0, 0, 176, 224]
+	},
+	"slots": {
+		"ENCODED_PATTERN": {
+			"left": 53,
+			"top": 116,
+			"grid": "HORIZONTAL"
+		},
+		"MACHINE_OUTPUT": {
+			"left": 107,
+			"top": 116,
+			"grid": "HORIZONTAL"
+		}
+	},
+	"widgets": {
+		"scrollbar": {
+			"left": 149,
+			"top": 35
+		}
+	}
+}
