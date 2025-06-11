@@ -6,18 +6,18 @@
   "widgets": {
     "upgrades": {
       "$comment": "The upgrade panel found on some screens",
-      "right": 2,
-      "top": 140
+      "right": -26,
+      "top": 33
     },
     "singularityBackground": {
-      "right": 2,
-      "top": 105
+      "right": -26,
+      "top": 0
     }
   },
   "slots": {
     "AE2WTLIB_SINGULARITY": {
-      "right": -6,
-      "top": 113
+      "right": -34,
+      "top": 8
     }
   }
 }
