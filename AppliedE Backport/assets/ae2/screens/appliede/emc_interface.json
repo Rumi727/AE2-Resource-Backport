@@ -1,0 +1,14 @@
+{
+  "includes": ["../interface.json"],
+  "text": {
+    "dialog_title": {
+      "text": {
+        "translate": "block.appliede.emc_interface"
+      },
+      "position": {
+        "left": 8,
+        "top": 6
+      }
+    }
+  }
+}

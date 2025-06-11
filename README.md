@@ -9,11 +9,12 @@ Original AE2 Mod : https://modrinth.com/mod/ae2
 **It doesn’t break.** Yep, that’s it.  
 If there is any broken part, please let me know.  
 
-Oh, right. There’s also a version that backports AE2WTLib and ExtendedAE.  
+Oh, right. There’s also a version that backports AE2WTLib and ExtendedAE, AppliedE.  
 Check out the additional files  
 
 Original AE2WTLib Mod : https://modrinth.com/mod/applied-energistics-2-wireless-terminals  
 Original ExtenedAE Mod : https://modrinth.com/mod/extended-ae  
+Original AppliedE Mod : https://modrinth.com/mod/appliede
 
 
 ## Note
@@ -26,6 +27,7 @@ I apologize for that.
 The [AE2 Backport](AE2%20Backport) folder is licensed under [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed)  
 The [AE2WTLib Backport](AE2WTLib%20Backport) folder is licensed under [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/  
 The [Extended AE2 Backport](Extended%20AE2%20Backport) folder is licensed under [LGPL 3.0](https://www.gnu.org/licenses/lgpl-3.0.html)  
+The [AppliedE Backport](AppliedE%20Backport) folder is licensed under [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/3.0/  
 
 ## Image
 
