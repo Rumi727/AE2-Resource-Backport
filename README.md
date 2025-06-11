@@ -10,7 +10,7 @@ Original AE2 Mod : https://modrinth.com/mod/ae2
 If there is any broken part, please let me know.  
 
 Oh, right. There’s also a version that backports AE2WTLib and ExtendedAE and AppliedE and AdvancedAE.  
-Check out the additional files  
+Check out the version  
 
 Original AE2WTLib Mod : https://modrinth.com/mod/applied-energistics-2-wireless-terminals  
 Original ExtenedAE Mod : https://modrinth.com/mod/extended-ae  
