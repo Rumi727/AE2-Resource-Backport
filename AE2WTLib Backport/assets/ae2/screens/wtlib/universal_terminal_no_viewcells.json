@@ -2,7 +2,7 @@
   "$schema": "schema.json",
   "slots": {
     "AE2WTLIB_SINGULARITY": {
-      "right": -6,
+      "right": -9,
       "top": 6
     }
   },
@@ -21,12 +21,12 @@
   },
   "widgets": {
     "singularityBackground": {
-      "right": 2,
+      "right": -1,
       "top": -2
     },
     "upgrades": {
       "$comment": "The upgrade panel found on some screens",
-      "right": 2,
+      "right": -1,
       "top": 31
     }
   }

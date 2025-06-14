@@ -52,8 +52,8 @@
       "height": 20
     },
     "viewCells": {
-      "right": 2,
-      "top": 0
+      "right": -1,
+      "top": -2
     },
     "search": {
       "left": 80,
