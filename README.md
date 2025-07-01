@@ -33,6 +33,8 @@ The [AppliedE Backport](AppliedE%20Backport) folder is licensed under [CC-BY-NC-
 The [AdvancedAE Backport](AdvancedAE%20Backport) folder is licensed under [LGPL 3.0](https://www.gnu.org/licenses/lgpl-3.0.html)  
 The [ME Requester Backport](ME%20Requester) folder is licensed under [LGPL 3.0](https://www.gnu.org/licenses/lgpl-3.0.html)  
 
+Thanks to KawaiiKelp for creating the ME Requester backport  
+
 ## Image
 
 ![AE2 Resource Backport](https://cdn.modrinth.com/data/cached_images/7432b67d6837779c284ca5e62acf4468085d8666.png)
