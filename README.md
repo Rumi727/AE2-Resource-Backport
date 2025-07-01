@@ -16,6 +16,7 @@ Original AE2WTLib Mod : https://modrinth.com/mod/applied-energistics-2-wireless-
 Original ExtenedAE Mod : https://modrinth.com/mod/extended-ae  
 Original AppliedE Mod : https://modrinth.com/mod/appliede  
 Original AdvancedAE Mod : https://modrinth.com/mod/advancedae  
+Original ME Requester Mod : https://modrinth.com/mod/merequester  
 
 
 ## Note
