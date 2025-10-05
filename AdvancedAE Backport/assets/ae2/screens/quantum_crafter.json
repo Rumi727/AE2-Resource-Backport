@@ -2,8 +2,7 @@
 	"$schema": "schema.json",
 	"includes": [
 		"common/common.json",
-		"common/player_inventory.json",
-		"common/toolbox.json"
+		"common/player_inventory.json"
 	],
 	"text": {
 		"dialog_title": {
@@ -41,6 +40,12 @@
 			"grid": "BREAK_AFTER_9COLS"
 		}
 	},
+  	"images": {
+    	"invalidPatternAlert": {
+      		"texture": "guis/quantum_crafter.png",
+      		"srcRect": [182, 0, 18, 18]
+    	}
+  	},
 	"widgets": {
 		"cfgButton1": {
 			"left": 8,
@@ -149,6 +154,10 @@
 			"top": 60,
 			"width": 12,
 			"height": 12
+		},
+		"invalidPatternAlert": {
+			"left": 151,
+			"top": 7
 		}
 	}
 }
