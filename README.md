@@ -1,3 +1,10 @@
+Instructions for those who want to download individual resource packs
+
+The AE2 Backport and AE2WTLib Backport folders in the root folder are backport resource packs for their respective mods.\
+You can download them as is and apply the backports of your desired mod to Minecraft.
+
+If you don't want to bother receiving individual resource packs or want to receive an integrated resource pack, please receive it from Modrinth!
+
 # Perfect AE2 Resource Backport  
 
 Yes, as the name suggests, this backports 1.21.1 AE2 mod resources to version 1.20.1.  
