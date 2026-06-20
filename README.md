@@ -24,6 +24,10 @@ Original ExtenedAE Mod : https://modrinth.com/mod/extended-ae
 Original AppliedE Mod : https://modrinth.com/mod/appliede  
 Original AdvancedAE Mod : https://modrinth.com/mod/advancedae  
 Original ME Requester Mod : https://modrinth.com/mod/merequester  
+Original AEInfinityBooster Mod : https://modrinth.com/mod/aeinfinitybooster  
+Original AE2 Import Export Card Mod : https://modrinth.com/mod/ae2-import-export-card  
+Original Expanded AE Mod : https://modrinth.com/mod/expanded-ae  
+Original MEGA Cells Mod : https://modrinth.com/mod/mega  
 
 
 ## Note
@@ -39,6 +43,10 @@ The [Extended AE2 Backport](Extended%20AE2%20Backport) folder is licensed under 
 The [AppliedE Backport](AppliedE%20Backport) folder is licensed under [CC-BY-NC-SA-3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)  
 The [AdvancedAE Backport](AdvancedAE%20Backport) folder is licensed under [LGPL 3.0](https://www.gnu.org/licenses/lgpl-3.0.html)  
 The [ME Requester Backport](ME%20Requester%20Backport) folder is licensed under [LGPL 3.0](https://www.gnu.org/licenses/lgpl-3.0.html)  
+The [AEInfinityBooster Backport](AEInfinityBooster%20Backport) folder is licensed under [LGPL 3.0](https://www.gnu.org/licenses/lgpl-3.0.html)  
+The [AE2 Insert Export Card Backport](AE2%20Import%20Export%20Card%20Backport) folder is licensed under [MIT](https://opensource.org/license/mit)  
+The [Expanded AE Backport](Expanded%20AE%20Backport) folder is licensed under [LGPL 3.0](https://www.gnu.org/licenses/lgpl-3.0.html)  
+The [MEGA Cells Backport](MEGA%20Cells%20Backport) folder is licensed under [LGPL 3.0](https://www.gnu.org/licenses/lgpl-3.0.html)  
 
 Thanks to KawaiiKelp for creating the ME Requester backport  
 
