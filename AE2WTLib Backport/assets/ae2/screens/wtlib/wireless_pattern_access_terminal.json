@@ -2,7 +2,6 @@
   "$schema": "schema.json",
   "includes": [
     "../terminals/pattern_access_terminal.json",
-    "../common/toolbox.json",
     "universal_terminal_no_viewcells.json"
   ],
   "slots": {
