@@ -5,6 +5,16 @@ You can download them as is and apply the backports of your desired mod to Minec
 
 If you don't want to bother receiving individual resource packs or want to receive an integrated resource pack, please receive it from Modrinth!
 
+## Build integrated pack
+
+Run this from the repository root to rebuild `AE2 Backport Integration` from every `*Backport*` folder:
+
+```bash
+./merge-backports.sh
+```
+
+The script deletes `AE2 Backport Integration/assets` first, then copies each source `assets` folder into it and copies `AE2 Backport/pack.mcmeta` plus `AE2 Backport/pack.png` into the integration pack.
+
 # Perfect AE2 Resource Backport  
 
 Yes, as the name suggests, this backports 1.21.1 AE2 mod resources to version 1.20.1.  
