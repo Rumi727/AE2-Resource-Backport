@@ -29,6 +29,7 @@ Original AE2 Import Export Card Mod : https://modrinth.com/mod/ae2-import-export
 Original Expanded AE Mod : https://modrinth.com/mod/expanded-ae  
 Original MEGA Cells Mod : https://modrinth.com/mod/mega  
 Original Applied Flux Mod : https://www.curseforge.com/minecraft/mc-mods/applied-flux  
+Original Modern AE2 Additions Mod : https://modrinth.com/mod/modern-ae2-additions  
 
 
 ## Note
@@ -49,6 +50,7 @@ The [AE2 Insert Export Card Backport](AE2%20Import%20Export%20Card%20Backport) f
 The [Expanded AE Backport](Expanded%20AE%20Backport) folder is licensed under [LGPL 3.0](https://www.gnu.org/licenses/lgpl-3.0.html)  
 The [MEGA Cells Backport](MEGA%20Cells%20Backport) folder is licensed under [LGPL 3.0](https://www.gnu.org/licenses/lgpl-3.0.html)  
 The [AppliedFlux Backport](AppliedFlux%20Backport) folder is licensed under [LGPL 3.0](https://www.gnu.org/licenses/lgpl-3.0.html)  
+The [Modern AE2 Additions Backport](Modern%20AE2%20Additions%20Backport) folder is licensed under [LGPL 3.0](https://www.gnu.org/licenses/lgpl-3.0.html)  
 
 Thanks to KawaiiKelp for creating the ME Requester backport  
 
