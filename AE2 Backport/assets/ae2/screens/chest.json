@@ -2,7 +2,7 @@
   "$schema": "schema.json",
   "includes": ["common/common.json", "common/player_inventory.json"],
   "background": {
-    "texture": "guis/me_chest.png",
+    "texture": "guis/chest.png",
     "srcRect": [0, 0, 176, 168]
   },
   "slots": {
@@ -14,7 +14,7 @@
   "text": {
     "dialog_title": {
       "text": {
-        "translate": "gui.ae2.MEChest"
+        "translate": "gui.ae2.Chest"
       },
       "position": {
         "left": 8,
