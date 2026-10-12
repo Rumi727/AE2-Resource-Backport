@@ -19,7 +19,7 @@
     },
     {
       "apply": {
-        "model": "expatternprovider:block/wireless_hub_light_gray"
+        "model": "expatternprovider:block/wireless_hub_orange"
       },
       "when": {
         "connected": "true",
@@ -28,7 +28,7 @@
     },
     {
       "apply": {
-        "model": "expatternprovider:block/wireless_hub_gray"
+        "model": "expatternprovider:block/wireless_hub_magenta"
       },
       "when": {
         "connected": "true",
@@ -37,7 +37,7 @@
     },
     {
       "apply": {
-        "model": "expatternprovider:block/wireless_hub_black"
+        "model": "expatternprovider:block/wireless_hub_light_blue"
       },
       "when": {
         "connected": "true",
@@ -46,7 +46,7 @@
     },
     {
       "apply": {
-        "model": "expatternprovider:block/wireless_hub_lime"
+        "model": "expatternprovider:block/wireless_hub_yellow"
       },
       "when": {
         "connected": "true",
@@ -55,7 +55,7 @@
     },
     {
       "apply": {
-        "model": "expatternprovider:block/wireless_hub_yellow"
+        "model": "expatternprovider:block/wireless_hub_lime"
       },
       "when": {
         "connected": "true",
@@ -64,7 +64,7 @@
     },
     {
       "apply": {
-        "model": "expatternprovider:block/wireless_hub_orange"
+        "model": "expatternprovider:block/wireless_hub_pink"
       },
       "when": {
         "connected": "true",
@@ -73,7 +73,7 @@
     },
     {
       "apply": {
-        "model": "expatternprovider:block/wireless_hub_brown"
+        "model": "expatternprovider:block/wireless_hub_gray"
       },
       "when": {
         "connected": "true",
@@ -82,7 +82,7 @@
     },
     {
       "apply": {
-        "model": "expatternprovider:block/wireless_hub_red"
+        "model": "expatternprovider:block/wireless_hub_light_gray"
       },
       "when": {
         "connected": "true",
@@ -91,7 +91,7 @@
     },
     {
       "apply": {
-        "model": "expatternprovider:block/wireless_hub_pink"
+        "model": "expatternprovider:block/wireless_hub_cyan"
       },
       "when": {
         "connected": "true",
@@ -100,7 +100,7 @@
     },
     {
       "apply": {
-        "model": "expatternprovider:block/wireless_hub_magenta"
+        "model": "expatternprovider:block/wireless_hub_purple"
       },
       "when": {
         "connected": "true",
@@ -109,7 +109,7 @@
     },
     {
       "apply": {
-        "model": "expatternprovider:block/wireless_hub_purple"
+        "model": "expatternprovider:block/wireless_hub_blue"
       },
       "when": {
         "connected": "true",
@@ -118,7 +118,7 @@
     },
     {
       "apply": {
-        "model": "expatternprovider:block/wireless_hub_blue"
+        "model": "expatternprovider:block/wireless_hub_brown"
       },
       "when": {
         "connected": "true",
@@ -127,7 +127,7 @@
     },
     {
       "apply": {
-        "model": "expatternprovider:block/wireless_hub_light_blue"
+        "model": "expatternprovider:block/wireless_hub_green"
       },
       "when": {
         "connected": "true",
@@ -136,7 +136,7 @@
     },
     {
       "apply": {
-        "model": "expatternprovider:block/wireless_hub_cyan"
+        "model": "expatternprovider:block/wireless_hub_red"
       },
       "when": {
         "connected": "true",
@@ -145,7 +145,7 @@
     },
     {
       "apply": {
-        "model": "expatternprovider:block/wireless_hub_green"
+        "model": "expatternprovider:block/wireless_hub_black"
       },
       "when": {
         "connected": "true",
